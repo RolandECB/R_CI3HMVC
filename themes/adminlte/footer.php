@@ -1,6 +1,6 @@
 <!-- /.content-wrapper -->
 <footer class="main-footer">
-    <strong class="ml-5">Copyright &copy; 2014-2020 ALPHA TECH.</strong>
+    <strong class="">Copyright &copy; 2014-2020 ALPHA TECH.</strong>
     All rights reserved.
   </footer>
 <!-- ./wrapper -->
